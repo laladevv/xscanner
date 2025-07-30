@@ -1,1 +1,3 @@
-# xscanner
+# xScanner
+
+Yapımı bitmiş ücretli bir programdır.
